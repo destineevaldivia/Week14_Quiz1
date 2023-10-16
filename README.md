@@ -12,5 +12,4 @@ You have just joined your favorite company and have been tasked with printing ne
    - detail the git commands you used to remove the node_modules, and
    - detail the git commands you used to correct the file structure# Week14_Quiz1
 
-done:
-server/asset.png
+![screenshot](<Screenshot 2023-10-16 at 10.20.39 AM.png>)
